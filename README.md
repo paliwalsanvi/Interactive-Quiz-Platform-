@@ -7,6 +7,7 @@ A **fully responsive, interactive quiz platform** built with **React.js**. Users
 ✔ Switch between **light and dark modes**  
 ✔ View a **final scoreboard** with a restart button  
 
+🔗 **Live Demo:** [View the App](https://quiz-platform-7r4xkmxt6-sanvi-paliwals-projects.vercel.app)  
 🔗 **GitHub Repository:** [View on GitHub](https://github.com/paliwalsanvi/Interactive-Quiz-Platform-.git)  
 
 ---
